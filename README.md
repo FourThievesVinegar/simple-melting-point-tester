@@ -1,6 +1,6 @@
 # Simple Melting Point Tester (or "SMelter")
 
-The Simple Melting Point Tester ("SMelter" for short) is an open-source, DIY melting point tester that people can assemble with parts available online. It is intended to provide people with a rudimentary but robust way to test the purity of substances.
+The Simple Melting Point Tester ("SMelter" for short) is an open-source, DIY melting point tester that you can assemble with parts available online. It is intended to provide people with a rudimentary but robust way to test the purity of substances.
 
 <IMG ALT="Simple Melting Point Tester fully assembled" SRC="./docs/media/simple-melting-point-tester.png" width="1000" />
 
